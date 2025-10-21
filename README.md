@@ -1,2 +1,2 @@
 # music_store_sql_analysis_project
-SQL scripts and dataset for the Music Store project
+end to end data analysis project and dataset for the anlysis
